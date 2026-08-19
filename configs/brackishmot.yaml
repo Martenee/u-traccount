@@ -1,0 +1,6 @@
+path: C:/Users/Martins/PycharmProjects/u-traccount/data/processed/brackishmot_yolo
+train: images/train
+val: images/val
+
+names:
+  0: underwater_creature
