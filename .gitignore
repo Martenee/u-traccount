@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Conda and virtual environments
+.venv/
+venv/
+env/
+
+# Datasets and generated results
+data/
+outputs/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+weights/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Windows files
+Thumbs.db
+Desktop.ini
