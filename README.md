@@ -86,7 +86,5 @@ Across the 16 validation sequences, the unique-individual counting evaluation pr
 - Mean signed error: 2.125
 Detailed per-sequence detection, tracking and counting results are retained in the notebook and dissertation.
 
-Leave Commit directly to the main branch selected.
-Click Commit changes.
 ``` 
 
