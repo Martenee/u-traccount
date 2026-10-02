@@ -57,7 +57,7 @@ Clone the repository and install the principal project dependencies:
 git clone https://github.com/Martenee/u-traccount.git
 cd u-traccount
 pip install -r requirements.txt
-
+```
 TrackEval is retrieved separately by the notebook from its official repository because it is used directly as an evaluation framework rather than maintained as part of this project.
 Reproducing the principal experiment
 Open the following notebook in Google Colab:
@@ -86,5 +86,4 @@ Across the 16 validation sequences, the unique-individual counting evaluation pr
 - Mean signed error: 2.125
 Detailed per-sequence detection, tracking and counting results are retained in the notebook and dissertation.
 
-``` 
 
